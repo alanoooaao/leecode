@@ -102,7 +102,7 @@ class Solution:
     def findMatch(self, s, i, l1, l2):
         # s is a string, i is index num, l1 and l2 are two lists of single characters
         # l1 is flexible, l2 is not flexible
-        # return a new value of i, and -1 means cannot find match
+        # returns a new value of i, and -2 means cannot find match
         if len(s) < len(l2) or i + len(l2) > len(s):
             return -2
         else:
