@@ -1,9 +1,9 @@
 This git is a leetcode practice for frankobe and Neoneal. 
 
-Python should be the main language although c++ will also be considered.
+Python should be the main development language although c++ will also be considered.
 
-We are working on leetcode problems from old to new.
+We are working on old and new leetcode problems.
 
-Welcome comment if u get new solution
+Welcome to comment if you get new solutions. 
 
 Have fun!!
